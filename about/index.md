@@ -13,6 +13,6 @@ For booking, please contact us through facebook.
 [Contact](https://www.facebook.com/Swallow-The-Sky-332884486868118){: .btn}
 
 {% capture images %}
-    https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/13103484_592775364212361_608528451793996668_n.jpg?oh=85b9c8848b6add34161a66de5a953f01&oe=5799C8A2
+    http://i.imgur.com/k5sguT6.jpg
 {% endcapture %}
 {% include gallery images=images caption="Swallow the Sky performing at The Bowery in Knoxville, TN" cols=1 %}
