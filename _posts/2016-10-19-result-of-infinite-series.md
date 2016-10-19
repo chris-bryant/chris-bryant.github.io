@@ -13,7 +13,7 @@ we are proud to announce that Result of Infinite Series has finally been release
 we couldn't be happier with the end product. Digital copies are available on Google Play, iTunes, Bandcamp, and Spotify. Physical
 copies will be here soon.
 
-[Listen for free on Bandcamp - We See You for What You Are](https://swallowthesky.bandcamp.com/album/result-of-infinite-series)
+[Listen for free on Bandcamp - Result of Infinite Series](https://swallowthesky.bandcamp.com/album/result-of-infinite-series)
 
 {% capture images %}
   https://f4.bcbits.com/img/a0284112858_10.jpg
