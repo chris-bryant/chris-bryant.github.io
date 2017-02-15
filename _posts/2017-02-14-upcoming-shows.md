@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Site"
+title:  "Upcoming Shows in 2017"
 date:   2017-02-14
 excerpt: "Upcoming shows in 2017."
 tag:
